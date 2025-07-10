@@ -12,4 +12,4 @@
 # Blog
 - Content available at:
 - Conteúdo disponível em:
-  https://codedelphi.com/erros-e-excecoes-em-json-no-delphi/
+  https://www.codedelphi.com/2024/09/erros-e-excecoes-em-json-no-delphi.html
